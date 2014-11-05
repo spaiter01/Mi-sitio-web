@@ -1,0 +1,14 @@
+C:\Users\Criteria IT\Documents\Visual Studio 2013\Projects\Utp\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Criteria IT\Documents\Visual Studio 2013\Projects\Utp\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Criteria IT\Documents\Visual Studio 2013\Projects\Utp\CapaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\Criteria IT\Documents\Visual Studio 2013\Projects\Utp\CapaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Criteria IT\Documents\Visual Studio 2013\Projects\Utp\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Criteria IT\Documents\Visual Studio 2013\Projects\Utp\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Criteria IT\Documents\Visual Studio 2013\Projects\Utp\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Junior\Desktop\Utp\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Junior\Desktop\Utp\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Junior\Desktop\Utp\CapaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\Junior\Desktop\Utp\CapaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Junior\Desktop\Utp\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Junior\Desktop\Utp\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Junior\Desktop\Utp\CapaNegocio\obj\Debug\CapaNegocio.pdb
